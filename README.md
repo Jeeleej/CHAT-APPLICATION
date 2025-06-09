@@ -31,5 +31,6 @@ MENTOR: NEELA SANTHOSH KUMAR
 -> Built with Node.js (server) and vanilla JavaScript (client), it offers a seamless, WhatsApp-like chatting experience.
 
 ---
+# Output
 
 ![Image](https://github.com/user-attachments/assets/51409a3c-4b8c-407a-8360-55e0acec5a4d)
