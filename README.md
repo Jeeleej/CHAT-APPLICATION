@@ -1,17 +1,5 @@
 # CHAT-APPLICATION
 
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: VAGHASIYA JEEL MUKESHBHAI
-
-INTERN ID: CT04DF1163
-
-DOMAIN: FULL STACK WEB DEVELOPMENT
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTHOSH KUMAR
-
 ---
 
 -> This project is a real-time chat application using WebSocket, designed to mimic WhatsApp's UI with pixel-perfect styling. It features:
